@@ -1,0 +1,27 @@
+body{
+background-color:rgb(200, 225, 207);
+}
+
+#links{
+margin: 0;
+text-align:center;
+padding:0.3%;
+color: #C0BFBF;
+font-family: Arial, Tahoma, Verdana;
+width: 99.39%;
+height: 41px;
+font-weight: bold;
+float: left;
+}
+
+#s{
+text-align:center;
+margin-top:25px;
+}
+
+#footer{
+	color:red;
+	position:static;
+	margin-left:600px;
+	margin-top:100px;
+}
